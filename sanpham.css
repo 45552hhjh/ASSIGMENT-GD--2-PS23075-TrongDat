@@ -1,0 +1,49 @@
+.column
+{
+ width:25%;
+ float: left;
+}
+.sanpham
+{
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray ;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+  }
+.sanpham .ten
+{
+ font-size:larger;
+font-variant: small-caps;
+color: blue;
+}
+
+.sanpham img
+{
+width:25%
+}
+.sanpham .gia
+{
+color: red;
+font-weight:bold;
+font-size:larger;
+}
+.sanpham .gia del
+{
+color: gray;
+}
+
+img{
+    width: 150px; height: 150px;
+    padding: 10px;
+    margin:  5px;
+    border-radius: 5px;
+    background-color: rgb(red, green, blue);
+    box-shadow: inset 5px greenyellow;
+    }
+.column .sanpham img:hover{
+    box-shadow: 0 0 5px red;
+    position: relative;
+    top: -10px;
+
+}

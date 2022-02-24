@@ -1,0 +1,105 @@
+
+header
+{
+    background-color: darkcyan;
+
+}
+.head
+{
+    font-size: larger;
+    font-style:unset;
+    text-align: center;
+    background-color: blue;
+}
+/* menu*/
+.menu ul
+{
+    background-color: cornflowerblue;
+}
+.menu ul li
+{
+    
+    display: inline;
+    line-height: 40px;
+    color: white;
+    text-align: center;
+    font-variant: small-caps;
+
+}
+nav a
+{
+    text-decoration: none;
+}
+nav
+{
+    
+    text-align: center;
+}
+
+/*footer*/
+footer
+{
+    border-top: 25% double orangered;
+    line-height: 100px;
+    background-color: lightcyan;
+    text-align: left;
+    list-style-type: none;
+    clear: both;
+    font-style: italic;
+} 
+footer a
+{
+    text-decoration: none;
+}
+footer b
+{
+    float: left;
+    text-align: center;
+}
+
+body
+{
+    background-color: antiquewhite;
+}
+.column
+{
+
+ width:25%;
+ float: left;
+}
+
+.sanpham
+{
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray ;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+  }
+.sanpham .ten
+{
+ font-size:larger;
+font-variant: small-caps;
+color: blue;
+}
+
+.sanpham img
+{
+width:25%
+}
+.sanpham .gia
+{
+color: red;
+font-weight:bold;
+font-size:larger;
+}
+.sanpham .gia del
+{
+color: gray;
+}
+.column .sanpham img:hover{
+    box-shadow: 0 0 5px red;
+    position: relative;
+    top: -10px;
+
+}

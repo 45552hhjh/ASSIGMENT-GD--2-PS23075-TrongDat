@@ -1,0 +1,21 @@
+ul
+{
+    display: block;
+    list-style-type: none;
+}
+body
+{
+    color: aqua;
+    font-weight: 100;
+    text-align: center;
+    background-image: url(image/Gearvn_vũ-trụ-mới_-19-1-scaled.jpg);
+}
+h2
+{
+    font-style: italic;
+}
+a
+{
+    text-decoration: none;
+    color: aqua;
+}

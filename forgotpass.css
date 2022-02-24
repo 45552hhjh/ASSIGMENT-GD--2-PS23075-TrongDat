@@ -1,0 +1,14 @@
+.form-group
+{
+    text-align: center;
+    font-size: x-large;
+}
+a
+{
+    text-decoration: none;
+    font-size: larger;
+}
+body
+{
+    background-image: url(image/Bg.jpg);
+}
